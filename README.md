@@ -42,6 +42,7 @@ The graph you create should look like this:
 
 
 ```python
+# Codegrade Step1
 # Replace None with appropriate code
 height = None
 x = None
@@ -88,6 +89,7 @@ The graph you create should look like this:
 
 
 ```python
+# Codegrade Step2
 # Replace None with appropriate code
 
 weight = [2750, 3125, 2100, 4082, 2690, 3640, 4380, 2241, 2895, 3659]
@@ -121,6 +123,7 @@ The graph you create should look like this:
 
 
 ```python
+# Codegrade Step3
 # Replace None with appropriate code
 
 x = [43.1, 35.6, 37.5, 36.5, 45.3, 43.4, 
