@@ -14,6 +14,7 @@ You will be able to:
 
 
 ```python
+# CodeGrade step0
 # Run this cell without changes
 import numpy as np
 import matplotlib.pyplot as plt
@@ -52,7 +53,7 @@ labels = None
 fig, ax = plt.subplots(figsize=(8, 6))
 
 # Plot vertical bars of fixed width by passing x and height values to .bar() function 
-None
+bar_chart = None
 
 # Give a title to the bar graph and label the axes
 None
@@ -99,7 +100,7 @@ mpg = [29, 23, 33, 28, 20, 21, 14, 25, 31, 17]
 None
 
 # Plot with scatter()
-None
+scatter_plot = None
 
 # Set x and y axes labels, legend, and title
 None
@@ -135,7 +136,7 @@ x = [43.1, 35.6, 37.5, 36.5, 45.3, 43.4,
 None
 
 # Plot the histogram with hist() function
-None
+my_hist = None
 
 # Label axes and set title
 None
